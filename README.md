@@ -1,11 +1,13 @@
-# Olá! 👋 Eu sou João Pedro Prosini Ramos
-### Cientista em formação (4/8) | Procurando a Primeira Oportunidade
+<p align="center">
+  # Olá! 👋 Eu sou João Pedro Prosini Ramos
+  ### Cientista em formação (4/8) | Procurando a Primeira Oportunidade
+</p>
 
 ---
 
 ## 💡 Quem Eu Sou
 
-Sou um aluno do curso de Ciência da Computação com forte motivação para iniciar minha carreira. Estou focado em aprender e aplicar os melhores princípios de programação para construir soluções eficientes e escaláveis.
+Sou um aluno do curso de Ciência da Computação com forte motivação para iniciar minha carreira. Tenho 19 anos e estou sempre buscando aprender e aplicar os melhores princípios de programação para construir soluções eficientes e escaláveis.
 
 Atualmente, estou em busca da minha **primeira oportunidade profissional** para contribuir em um ambiente de equipe dinâmico e colocar meus conhecimentos em prática.
 
