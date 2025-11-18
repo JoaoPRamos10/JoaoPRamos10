@@ -1,5 +1,5 @@
 # Olá! 👋 Eu sou João Pedro Prosini Ramos
-### Desenvolvedor em formação (4/8) | Procurando a Primeira Oportunidade
+### Cientista em formação (4/8) | Procurando a Primeira Oportunidade
 
 ---
 
@@ -60,8 +60,8 @@ Minha jornada de aprendizado tem me permitido explorar e desenvolver competênci
 <details>
   <summary>Algumas curiosidades sobre mim:</summary>
   <ul>
-    <li>**Pronomes:** Ele/Dele</li>
-    <li>**Fato Divertido:** Gosto de jogar videogames, ouvir música, assistir a animes e me divertir com meus amigos! :D</li>
+    <li>Pronomes: Ele/Dele</li>
+    <li>Fato Divertido: Gosto de jogar videogames, ouvir música, assistir a animes e me divertir com meus amigos! :D</li>
   </ul>
 </details>
 
