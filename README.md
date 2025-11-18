@@ -1,8 +1,8 @@
-<p align="center", >
+<h1 align="center", >
   Olá! 👋 Eu sou João Pedro Prosini Ramos
   <br>
   Cientista em formação (4/8) | Procurando a Primeira Oportunidade
-</p>
+</h1>
 
 ---
 
