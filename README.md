@@ -40,9 +40,9 @@ Minha jornada de aprendizado tem me permitido explorar e desenvolver competênci
 ## 📚 Atualmente Aprendendo & Objetivos
 
 * **Atualmente Aprendendo:** Linguagens de programação como **Python**, **Java**, **C**, **SQL** e muito mais!
-* **Foco Principal:** Aprofundamento em Banco de Dados.
-* **Próximos Passos:** Explorar o mundo do Desenvolvimento (Front/Back).
-* **Objetivo:** Num primeiro momento, conseguir uma oportunidade de Estágio, depois, Tornar-me um Junior em áreas de interesse como Desenvolvimento, Ciência de Dados e várias outras.]
+* **Foco Principal:** Explorar o mundo do Desenvolvimento (Front/Back).
+* **Próximos Passos:** Aprofundmento na área de Ciência de Dados.
+* **Objetivo:** Num primeiro momento, conseguir uma oportunidade de Estágio, depois, Tornar-me um Junior em áreas de interesse como Desenvolvimento, Ciência de Dados e várias outras.
 
 ---
 
